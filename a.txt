@@ -3,4 +3,12 @@ qwerwef
 qwerty
 asd
 
+<<<<<<< HEAD
 eedddddddd
+=======
+<<<<<<< HEAD
+eea
+=======
+eeddddd
+>>>>>>> f67949852c71c1a6fc6b4c853ca12b931038b8ca
+>>>>>>> fetch_head
