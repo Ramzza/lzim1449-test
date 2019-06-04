@@ -1,4 +1,8 @@
 asdfghjkl
+<<<<<<< HEAD
 qwer
 qwerty
 e
+=======
+qwerty
+>>>>>>> parent of 333e5e0... testing msg
